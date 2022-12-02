@@ -57,6 +57,10 @@ button {
     transition-property: opacity;
 }
 
+a.button:visited {
+    color: white;
+}
+
 .button {
     border: none;
     display: inline-block;
